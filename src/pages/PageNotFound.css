@@ -1,0 +1,12 @@
+.page-not-found-container {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-not-found-text {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+}
