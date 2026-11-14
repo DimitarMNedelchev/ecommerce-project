@@ -1,7 +1,17 @@
 import "./CheckoutPage.css";
 import { CheckoutHeader } from "./CheckoutHeader";
+// import { useState, useEffect } from "react";
+// import axios from "axios";
 
 export function CheckoutPage() {
+  // const [cartProducts, setCartProducts] = useState();
+
+  // useEffect(() => {
+  //   axios.get("http://localhost:3000/api/cart-items").then((response) => {
+  //     setCartProducts(response.data);
+  //   });
+  // }, []);
+
   return (
     <>
       <title>Checkout</title>
